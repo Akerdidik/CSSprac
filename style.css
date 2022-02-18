@@ -1,0 +1,18 @@
+.imba{
+    font-family:monospace;
+    color:blue;
+    width:10px;
+}
+.imba1{
+  color:green;
+  border-style: solid;
+  height:inherit;
+}
+.imba2{
+  color:black;
+  font-family: monospace;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
